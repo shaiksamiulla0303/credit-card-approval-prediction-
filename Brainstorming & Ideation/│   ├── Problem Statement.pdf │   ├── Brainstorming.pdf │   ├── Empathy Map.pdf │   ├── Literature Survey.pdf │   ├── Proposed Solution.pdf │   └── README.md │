@@ -1,0 +1,78 @@
+credit-card-approval-prediction/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── 1. Brainstorming & Ideation/
+│   ├── Problem Statement.pdf
+│   ├── Brainstorming.pdf
+│   ├── Empathy Map.pdf
+│   ├── Literature Survey.pdf
+│   ├── Proposed Solution.pdf
+│   └── README.md
+│
+├── 2. Requirement Analysis/
+│   ├── Functional Requirements.pdf
+│   ├── Non-Functional Requirements.pdf
+│   ├── Software Requirements Specification (SRS).pdf
+│   ├── Technology Stack.pdf
+│   └── README.md
+│
+├── 3. Project Design Phase/
+│   ├── Architecture Diagram.png
+│   ├── Use Case Diagram.png
+│   ├── Class Diagram.png
+│   ├── Sequence Diagram.png
+│   ├── Activity Diagram.png
+│   ├── Flowchart.png
+│   ├── Data Flow Diagram (DFD).png
+│   └── README.md
+│
+├── 4. Project Planning Phase/
+│   ├── Project Plan.pdf
+│   ├── Milestones.pdf
+│   ├── Sprint Planning.pdf
+│   ├── Gantt Chart.png
+│   ├── Risk Management.pdf
+│   └── README.md
+│
+├── 5. Project Development/
+│   ├── dataset/
+│   │   ├── credit_card.csv
+│   │   └── README.md
+│   ├── notebooks/
+│   │   ├── Data_Preprocessing.ipynb
+│   │   ├── Model_Training.ipynb
+│   │   └── Prediction.ipynb
+│   ├── src/
+│   │   ├── data_preprocessing.py
+│   │   ├── train_model.py
+│   │   ├── predict.py
+│   │   └── app.py
+│   ├── models/
+│   │   └── trained_model.pkl
+│   ├── requirements.txt
+│   └── README.md
+│
+├── 6. Project Testing/
+│   ├── Test Cases.xlsx
+│   ├── Test Report.pdf
+│   ├── Accuracy Report.pdf
+│   └── README.md
+│
+├── 7. Project Documentation/
+│   ├── Project Report.pdf
+│   ├── User Manual.pdf
+│   ├── Installation Guide.pdf
+│   ├── Abstract.pdf
+│   └── README.md
+│
+└── 8. Project Demonstration/
+    ├── Project Presentation.pptx
+    ├── Demo Video.mp4
+    ├── Output Screenshots/
+    │   ├── Home Page.png
+    │   ├── Prediction Result.png
+    │   └── Accuracy Graph.png
+    └── README.md
